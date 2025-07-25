@@ -286,7 +286,10 @@ section {
     section {
         padding: 80px 20px;
     }
-
+    .main {
+        background-position: -700px;
+        background-repeat: repeat;
+    }
     .main h2 {
         font-size: 1em;
     }
@@ -306,7 +309,9 @@ section {
     body {
         font-size: 12px;
     }
-
+    .main {
+        background-position: left;
+    }
     .main h2 {
         font-size: 0.8em;
     }
