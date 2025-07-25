@@ -151,6 +151,11 @@ section {
     transform: scale(1.1);
 }
 
+.card a {
+    text-decoration: none;
+    color: #000000
+}
+
 .card .icon {
     color: var(--main-color);
     font-size: 8em;
